@@ -19,7 +19,7 @@
 📋 Installation Steps
 
 Step 1 : Clone the Repository
-`git clone [https://github.com/Niroop4444/supercoder_task.git]`
+`git clone https://github.com/Niroop4444/supercoder_task.git`
 
 Step 2 : Navigate to your project directory
 `cd supercoder_task_assignment`
